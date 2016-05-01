@@ -1,0 +1,21 @@
+<h1>World Countries</h1> 
+<link rel="stylesheet" href="style.css">
+<h3>Search <input type="text" ng-model="query"/></h3>
+<table class="table">
+	<thead>
+	<tr>
+		<th>Flags</th>
+		<th><a href="" ng-click="country.sortField='countryName';reverse = !reverse"> Country</a></th>
+		<th><a href="" ng-click="country.sortField='capital';reverse = !reverse">Capital</th>
+		<th><a href="" ng-click="country.sortField='continentName';reverse = !reverse">Continent</th>
+		<th><a href="" ng-click="country.sortField='-population';reverse = !reverse">Population</th>
+	</tr>
+	<thead>
+	<tr ng-repeat="country in country.countries | orderBy:country.sortField:reverse | filter:query ">
+		<td> <img class="shadow" ng-src="{{country.flag}}"> </td>
+		<td><a href="{{country.countryName | encodeURI}}"> {{country.countryName}}</a></td>
+		<td> {{country.capital}} </td>
+		<td> {{country.continentName}} </td>
+		<td> {{country.population | number}} </td>
+	</tr>
+</table>

@@ -1,0 +1,2002 @@
+[{
+    "countryName": "Andorra",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Andorra.png",
+    "population": 84000,
+    "capital": "Andorra la Vella",
+    "continentName": "Europe",
+    "map": "img/map/Andorra.png",
+    "area": 468 
+}, {
+    "countryName": "Afghanistan",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Afghanistan.png",
+    "population": 29121286,
+    "capital": "Kabul",
+    "continentName": "Asia",
+    "map": "img/map/Afghanistan.png",
+    "area": 652230
+}, {
+    "countryName": "Antigua and Barbuda",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Antigua.png",
+    "population": 86754,
+    "capital": "St. John's",
+    "continentName": "North America",
+    "map": "img/map/Antigua.png",
+    "area": 440
+}, {
+    "countryName": "Anguilla",
+    "flag": "img/anguilla.png",
+    "population": 13254,
+    "capital": "The Valley",
+    "continentName": "North America",
+    "map": "img/map/Anguilla.png",
+    "area": 91
+}, {
+    "countryName": "Albania",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Albania.png",
+    "population": 2986952,
+    "capital": "Tirana",
+    "continentName": "Europe",
+    "map": "img/map/Albania.png",
+    "area": 28748
+}, {
+    "countryName": "Armenia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Armenia.png",
+    "population": 2968000,
+    "capital": "Yerevan",
+    "continentName": "Asia",
+    "map": "img/map/Armenia.png",
+    "area": 29743
+}, {
+    "countryName": "Angola",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Angola.png",
+    "population": 13068161,
+    "capital": "Luanda",
+    "continentName": "Africa",
+    "map": "img/map/Angola.png",
+    "area": 1246700
+}, {
+    "countryName": "Antarctica",
+    "flag": "img/antartica.png",
+    "population": 0,
+    "capital": "",
+    "continentName": "Antarctica",
+    "map": "img/map/Antartica.png",
+    "area": 14000000
+}, {
+    "countryName": "Argentina",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Argentina.png",
+    "population": 41343201,
+    "capital": "Buenos Aires",
+    "continentName": "South America",
+    "map": "img/map/Argentina.png",
+    "area": 2780400
+}, {
+    "countryName": "American Samoa",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Samoa.png",
+    "population": 57881,
+    "capital": "Pago Pago",
+    "continentName": "Oceania",
+    "map": "img/map/ASamoa.png",
+    "area": 199
+}, {
+    "countryName": "Austria",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Austria.png",
+    "population": 8205000,
+    "capital": "Vienna",
+    "continentName": "Europe",
+    "map": "img/map/Austria.png",
+    "area": 83871
+}, {
+    "countryName": "Australia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Australia.png",
+    "population": 21515754,
+    "capital": "Canberra",
+    "continentName": "Oceania",
+    "map": "img/map/Australia.png",
+    "area": 7692024
+}, {
+    "countryName": "Aruba",
+    "flag": "img/aruba.png",
+    "population": 71566,
+    "capital": "Oranjestad",
+    "continentName": "North America",
+    "map": "img/map/Aruba.png",
+    "area": 180
+}, {
+    "countryName": "Åland",
+    "flag": "img/aland.png",
+    "population": 26711,
+    "capital": "Mariehamn",
+    "continentName": "Europe",
+    "map": "img/map/Aland.png"
+
+}, {
+    "countryName": "Azerbaijan",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Azerbaijan.png",
+    "population": 8303512,
+    "capital": "Baku",
+    "continentName": "Asia",
+    "map": "img/map/Azerbaijan.png",
+    "area": 86600
+}, {
+    "countryName": "Bosnia and Herzegovina",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Bosnia-Hercegovina.png",
+    "population": 4590000,
+    "capital": "Sarajevo",
+    "continentName": "Europe",
+    "map": "img/map/Bosnia.png",
+    "area": 51209
+}, {
+    "countryName": "Barbados",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Barbados.png",
+    "population": 285653,
+    "capital": "Bridgetown",
+    "continentName": "North America",
+    "map": "img/map/Barbados.png",
+    "area": 430
+}, {
+    "countryName": "Bangladesh",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Bangladesh.png",
+    "population": 156118464,
+    "capital": "Dhaka",
+    "continentName": "Asia",
+    "map": "img/map/Bangladesh.png",
+    "area": 147570
+}, {
+    "countryName": "Belgium",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Belgium.png",
+    "population": 10403000,
+    "capital": "Brussels",
+    "continentName": "Europe",
+    "map": "img/map/Belgium.png",
+    "area": 30528
+}, {
+    "countryName": "Burkina Faso",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Burkina-Faso.png",
+    "population": 16241811,
+    "capital": "Ouagadougou",
+    "continentName": "Africa",
+    "map": "img/map/Burkina.png",
+    "area": 272967
+}, {
+    "countryName": "Bulgaria",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Bulgaria.png",
+    "population": 7148785,
+    "capital": "Sofia",
+    "continentName": "Europe",
+    "map": "img/map/Bulgaria.png",
+    "area": 110879
+}, {
+    "countryName": "Bahrain",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Bahrain.png",
+    "population": 738004,
+    "capital": "Manama",
+    "continentName": "Asia",
+    "map": "img/map/Bahrain.png",
+    "area": 765
+}, {
+    "countryName": "Burundi",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Burundi.png",
+    "population": 9863117,
+    "capital": "Bujumbura",
+    "continentName": "Africa",
+    "map": "img/map/Burundi.png",
+    "area": 27834
+}, {
+    "countryName": "Benin",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Benin.png",
+    "population": 9056010,
+    "capital": "porto-Novo",
+    "continentName": "Africa",
+    "map": "img/map/Benin.png",
+    "area": 112622
+}, {
+    "countryName": "Saint Barthélemy",
+    "flag": "img/barth.png",
+    "population": 8450,
+    "capital": "Gustavia",
+    "continentName": "North America",
+    "map": "img/map/Saint.png",
+    "area": 21
+}, {
+    "countryName": "Bermuda",
+    "flag": "img/bermuda.png",
+    "population": 65365,
+    "capital": "Hamilton",
+    "continentName": "North America",
+    "map": "img/map/Bermuda.png",
+    "area": 54
+}, {
+    "countryName": "Brunei",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Brunei.png",
+    "population": 395027,
+    "capital": "Bandar Seri Begawan",
+    "continentName": "Asia",
+    "map": "img/map/Brunei.png",
+    "area": 5765
+}, {
+    "countryName": "Bolivia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Bolivia.png",
+    "population": 9947418,
+    "capital": "Sucre",
+    "continentName": "South America",
+    "map": "img/map/Bolivia.png",
+    "area": 1098581
+}, {
+    "countryName": "Bonaire",
+    "flag": "img/bonaire.png",
+    "population": 18012,
+    "capital": "Kralendijk",
+    "continentName": "North America",
+    "map": "img/map/Bonaire.png",
+    "area": 294
+}, {
+    "countryName": "Brazil",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Brazil.png",
+    "population": 201103330,
+    "capital": "Brasília",
+    "continentName": "South America",
+    "map": "img/map/Brazil.png",
+    "area": 8515767
+}, {
+    "countryName": "Bahamas",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Bahamas.png",
+    "population": 301790,
+    "capital": "Nassau",
+    "continentName": "North America",
+    "map": "img/map/Bahamas.png",
+    "area": 13943
+}, {
+    "countryName": "Bhutan",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Bhutan.png",
+    "population": 699847,
+    "capital": "Thimphu",
+    "continentName": "Asia",
+    "map": "img/map/Bhutan.png",
+    "area": 38394
+}, {
+    "countryName": "Bouvet Island",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Norway.png",
+    "population": 0,
+    "capital": "",
+    "continentName": "Antarctica",
+    "map": "img/map/Bouvet.png",
+    "area": 49
+}, {
+    "countryName": "Botswana",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Botswana.png",
+    "population": 2029307,
+    "capital": "Gaborone",
+    "continentName": "Africa",
+    "map": "img/map/Botswana.png",
+    "area": 582000
+}, {
+    "countryName": "Belarus",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Belarus.png",
+    "population": 9685000,
+    "capital": "Minsk",
+    "continentName": "Europe",
+    "map": "img/map/Belarus.png",
+    "area": 207600
+}, {
+    "countryName": "Belize",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Belize.png",
+    "population": 314522,
+    "capital": "Belmopan",
+    "continentName": "North America",
+    "map": "img/map/Belize.png",
+    "area": 22966
+}, {
+    "countryName": "Canada",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Canada.png",
+    "population": 33679000,
+    "capital": "Ottawa",
+    "continentName": "North America",
+    "map": "img/map/Canada.png",
+    "area": 9984670
+}, {
+    "countryName": "Cocos [Keeling] Islands",
+    "flag": "img/cocos.png",
+    "population": 628,
+    "capital": "West Island",
+    "continentName": "Asia",
+    "map": "img/map/Cocos.png",
+    "area": 14
+}, {
+    "countryName": "Democratic Republic of the Congo",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Congo-Democratic-Republic-of.png",
+    "population": 70916439,
+    "capital": "Kinshasa",
+    "continentName": "Africa",
+    "map": "img/map/Congo.png",
+    "area": 2344858
+}, {
+    "countryName": "Central African Republic",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Central-African-Republic.png",
+    "population": 4844927,
+    "capital": "Bangui",
+    "continentName": "Africa",
+    "map": "img/map/African.png",
+    "area": 622984
+}, {
+    "countryName": "Republic of the Congo",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Congo.png",
+    "population": 3039126,
+    "capital": "Brazzaville",
+    "continentName": "Africa",
+    "map": "img/map/RCongo.png",
+    "area" : ""
+}, {
+    "countryName": "Switzerland",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Switzerland.png",
+    "population": 7581000,
+    "capital": "Bern",
+    "continentName": "Europe",
+    "map": "img/map/Switzerland.png",
+    "area": 41284
+}, {
+    "countryName": "Ivory Coast",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Cote-d-Ivoire.png",
+    "population": 21058798,
+    "capital": "Yamoussoukro",
+    "continentName": "Africa",
+    "map": "img/map/Ivory.png",
+    "area": 322463
+}, {
+    "countryName": "Cook Islands",
+    "flag": "img/cook.png",
+    "population": 21388,
+    "capital": "Avarua",
+    "continentName": "Oceania",
+    "map": "img/map/Cook.png",
+    "area": 236
+}, {
+    "countryName": "Chile",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Chile.png",
+    "population": 16746491,
+    "capital": "Santiago",
+    "continentName": "South America",
+    "map": "img/map/Chile.png",
+    "area": 756102
+}, {
+    "countryName": "Cameroon",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Cameroon.png",
+    "population": 19294149,
+    "capital": "Yaoundé",
+    "continentName": "Africa",
+    "map": "img/map/Cameroon.png",
+    "area": 475442
+}, {
+    "countryName": "China",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-China.png",
+    "population": 1330044000,
+    "capital": "Beijing",
+    "continentName": "Asia",
+    "map": "img/map/china.png",
+    "area": 9706961
+}, {
+    "countryName": "Colombia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Colombia.png",
+    "population": 47790000,
+    "capital": "Bogotá",
+    "continentName": "South America",
+    "map": "img/map/Colombia.png",
+    "area": 1141748
+}, {
+    "countryName": "Costa Rica",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Costa-Rica.png",
+    "population": 4516220,
+    "capital": "San José",
+    "continentName": "North America",
+    "map": "img/map/Rica.png",
+    "area": 51100
+}, {
+    "countryName": "Cuba",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Cuba.png",
+    "population": 11423000,
+    "capital": "Havana",
+    "continentName": "North America",
+    "map": "img/map/Cuba.png",
+    "area": 109884
+}, {
+    "countryName": "Cape Verde",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Cabo-Verde.png",
+    "population": 508659,
+    "capital": "Praia",
+    "continentName": "Africa",
+    "map": "img/map/Verde.png",
+    "area": 51100
+}, {
+    "countryName": "Curacao",
+    "flag": "img/curacao.png",
+    "population": 141766,
+    "capital": "Willemstad",
+    "continentName": "North America",
+    "map": "img/map/Curacao.png",
+    "area": 444
+}, {
+    "countryName": "Christmas Island",
+    "flag": "img/xmas.png",
+    "population": 1500,
+    "capital": "Flying Fish Cove",
+    "continentName": "Asia",
+    "map": "img/map/Christmas.png",
+    "area": 135
+}, {
+    "countryName": "Cyprus",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Cyprus.png",
+    "population": 1102677,
+    "capital": "Nicosia",
+    "continentName": "Europe",
+    "map": "img/map/Cyprus.png",
+    "area": 9251
+}, {
+    "countryName": "Czech Republic",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Czech-Republic.png",
+    "population": 10476000,
+    "capital": "Prague",
+    "continentName": "Europe",
+    "map": "img/map/Czech.png",
+    "area": 78865
+}, {
+    "countryName": "Germany",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Germany.png",
+    "population": 81802257,
+    "capital": "Berlin",
+    "continentName": "Europe",
+    "map": "img/map/Germany.png",
+    "area": 357114
+}, {
+    "countryName": "Djibouti",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Djibouti.png",
+    "population": 740528,
+    "capital": "Djibouti",
+    "continentName": "Africa",
+    "map": "img/map/Djibouti.png",
+    "area": 23200
+}, {
+    "countryName": "Denmark",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Denmark.png",
+    "population": 5484000,
+    "capital": "Copenhagen",
+    "continentName": "Europe",
+    "map": "img/map/Denmark.png",
+    "area": 43094
+}, {
+    "countryName": "Dominica",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Dominica.png",
+    "population": 72813,
+    "capital": "Roseau",
+    "continentName": "North America",
+    "map": "img/map/Dominica.png",
+    "area": 751
+}, {
+    "countryName": "Dominican Republic",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Dominican-Republic.png",
+    "population": 9823821,
+    "capital": "Santo Domingo",
+    "continentName": "North America",
+    "map": "img/map/Dominican.png",
+    "area": 48671
+}, {
+    "countryName": "Algeria",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Algeria.png",
+    "population": 34586184,
+    "capital": "Algiers",
+    "continentName": "Africa",
+    "map": "img/map/Algeria.png",
+    "area": 2381741
+
+}, {
+    "countryName": "Ecuador",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Ecuador.png",
+    "population": 14790608,
+    "capital": "Quito",
+    "continentName": "South America",
+    "map": "img/map/Ecuador.png",
+    "area": 276841
+}, {
+    "countryName": "Estonia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Estonia.png",
+    "population": 1291170,
+    "capital": "Tallinn",
+    "continentName": "Europe",
+    "map": "img/map/Estonia.png",
+    "area": 45227
+}, {
+    "countryName": "Egypt",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Egypt.png",
+    "population": 80471869,
+    "capital": "Cairo",
+    "continentName": "Africa",
+    "map": "img/map/Egypt.png",
+    "area": 1002450
+}, {
+    "countryName": "Western Sahara",
+    "flag": "img/western.png",
+    "population": 273008,
+    "capital": "Laâyoune / El Aaiún",
+    "continentName": "Africa",
+    "map": "img/map/Sahara.png",
+    "area": 266000
+}, {
+    "countryName": "Eritrea",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Eritrea.png",
+    "population": 5792984,
+    "capital": "Asmara",
+    "continentName": "Africa",
+    "map": "img/map/Eritrea.png",
+    "area": 117600
+}, {
+    "countryName": "Spain",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Spain.png",
+    "population": 46505963,
+    "capital": "Madrid",
+    "continentName": "Europe",
+    "map": "img/map/Spain.png",
+    "area": 505992
+}, {
+    "countryName": "Ethiopia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Ethiopia.png",
+    "population": 88013491,
+    "capital": "Addis Ababa",
+    "continentName": "Africa",
+    "map": "img/map/Ethiopia.png",
+    "area": 1104300
+}, {
+    "countryName": "Finland",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Finland.png",
+    "population": 5244000,
+    "capital": "Helsinki",
+    "continentName": "Europe",
+    "map": "img/map/Finland.png",
+    "area": 338424
+}, {
+    "countryName": "Fiji",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Fiji.png",
+    "population": 875983,
+    "capital": "Suva",
+    "continentName": "Oceania",
+    "map": "img/map/Fiji.png",
+    "area": 18272
+}, {
+    "countryName": "Falkland Islands",
+    "flag": "img/falkland.png",
+    "population": 2638,
+    "capital": "Stanley",
+    "continentName": "South America",
+    "map": "img/map/Falkland.png",
+    "area": 12173
+}, {
+    "countryName": "Micronesia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Micronesia.png",
+    "population": 107708,
+    "capital": "Palikir",
+    "continentName": "Oceania",
+    "map": "img/map/Micronesia.png",
+    "area": 702
+}, {
+    "countryName": "Faroe Islands",
+    "flag": "img/faroe.png",
+    "population": 48228,
+    "capital": "Tórshavn",
+    "continentName": "Europe",
+    "map": "img/map/Faroe.png",
+    "area": 1393
+}, {
+    "countryName": "France",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-France.png",
+    "population": 64768389,
+    "capital": "Paris",
+    "continentName": "Europe",
+    "map": "img/map/France.png",
+    "area": 551695
+}, {
+    "countryName": "Gabon",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Gabon.png",
+    "population": 1545255,
+    "capital": "Libreville",
+    "continentName": "Africa",
+    "map": "img/map/Gabon.png",
+    "area": 267668
+}, {
+    "countryName": "United Kingdom",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-United-Kingdom.png",
+    "population": 62348447,
+    "capital": "London",
+    "continentName": "Europe",
+    "map": "img/map/Kingdom.png",
+    "area": 242900
+}, {
+    "countryName": "Grenada",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Grenada.png",
+    "population": 107818,
+    "capital": "St. George's",
+    "continentName": "North America",
+    "map": "img/map/Grenada.png",
+    "area": 344
+}, {
+    "countryName": "Georgia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Georgia.png",
+    "population": 4630000,
+    "capital": "Tbilisi",
+    "continentName": "Asia",
+    "map": "img/map/Georgia.png",
+    "area": 69700
+}, {
+    "countryName": "French Guiana",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Guinea.png",
+    "population": 195506,
+    "capital": "Cayenne",
+    "continentName": "South America",
+    "map": "img/map/Guiana.png",
+    "area": 83534
+}, {
+    "countryName": "Guernsey",
+    "flag": "img/Guernsey.png",
+    "population": 65228,
+    "capital": "St Peter Port",
+    "continentName": "Europe",
+    "map": "img/map/Guernsey.png",
+    "area": 78
+}, {
+    "countryName": "Ghana",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Ghana.png",
+    "population": 24339838,
+    "capital": "Accra",
+    "continentName": "Africa",
+    "map": "img/map/Ghana.png",
+    "area": 238533
+}, {
+    "countryName": "Gibraltar",
+    "flag": "img/gibraltar.png",
+    "population": 27884,
+    "capital": "Gibraltar",
+    "continentName": "Europe",
+    "map": "img/map/Gibraltar.png",
+    "area": 6
+}, {
+    "countryName": "Greenland",
+    "flag": "img/greenland.png",
+    "population": 56375,
+    "capital": "Nuuk",
+    "continentName": "North America",
+    "map": "img/map/Greenland.png",
+    "area": 2166086
+}, {
+    "countryName": "Gambia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Gambia.png",
+    "population": 1593256,
+    "capital": "Bathurst",
+    "continentName": "Africa",
+    "map": "img/map/Gambia.png",
+    "area": 10689
+}, {
+    "countryName": "Guinea",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Guinea.png",
+    "population": 10324025,
+    "capital": "Conakry",
+    "continentName": "Africa",
+    "map": "img/map/Guinea.png",
+    "area": 245857
+}, {
+    "countryName": "Guadeloupe",
+    "flag": "img/guadeloupe.png",
+    "population": 443000,
+    "capital": "Basse-Terre",
+    "continentName": "North America",
+    "map": "img/map/Guadeloupe.png",
+    "area": 1628
+}, {
+    "countryName": "Equatorial Guinea",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Guinea-Bissau.png",
+    "population": 1014999,
+    "capital": "Malabo",
+    "continentName": "Africa",
+    "map": "img/map/Equatorial.png",
+    "area": 28051
+}, {
+    "countryName": "Greece",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Greece.png",
+    "population": 11000000,
+    "capital": "Athens",
+    "continentName": "Europe",
+    "map": "img/map/Greece.png",
+    "area": 131990
+}, {
+    "countryName": "South Georgia and the South Sandwich Islands",
+    "flag": "img/sandwich.png",
+    "population": 30,
+    "capital": "Grytviken",
+    "continentName": "Antarctica",
+    "map": "img/map/sandwich.png",
+    "area": 3903
+}, {
+    "countryName": "Guatemala",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Guatemala.png",
+    "population": 13550440,
+    "capital": "Guatemala City",
+    "continentName": "North America",
+    "map": "img/map/Guatemala.png",
+    "area": 108889
+}, {
+    "countryName": "Guam",
+    "flag": "img/guam.png",
+    "population": 159358,
+    "capital": "Hagåtña",
+    "continentName": "Oceania",
+    "map": "img/map/Guam.png",
+    "area": 549
+}, {
+    "countryName": "Guinea-Bissau",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Guinea-Bissau.png",
+    "population": 1565126,
+    "capital": "Bissau",
+    "continentName": "Africa",
+    "map": "img/map/Bissau.png",
+    "area": 36125
+}, {
+    "countryName": "Guyana",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Guyana.png",
+    "population": 748486,
+    "capital": "Georgetown",
+    "continentName": "South America",
+    "map": "img/map/Guyana.png",
+    "area": 214969
+}, {
+    "countryName": "Hong Kong",
+    "flag": "img/hong.png",
+    "population": 6898686,
+    "capital": "Hong Kong",
+    "continentName": "Asia",
+    "map": "img/map/Kong.png",
+    "area": 1104
+}, {
+    "countryName": "Heard Island and McDonald Islands",
+    "flag": "img/mcdonald.png",
+    "population": 0,
+    "capital": "",
+    "continentName": "Antarctica",
+    "map": "img/map/McDonald.png",
+    "area": 412
+}, {
+    "countryName": "Honduras",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Honduras.png",
+    "population": 7989415,
+    "capital": "Tegucigalpa",
+    "continentName": "North America",
+    "map": "img/map/Honduras.png",
+    "area": 112492
+}, {
+    "countryName": "Croatia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Croatia.png",
+    "population": 4491000,
+    "capital": "Zagreb",
+    "continentName": "Europe",
+    "map": "img/map/Croatia.png",
+    "area": 56594
+}, {
+    "countryName": "Haiti",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Haiti.png",
+    "population": 9648924,
+    "capital": "Port-au-Prince",
+    "continentName": "North America",
+    "map": "img/map/Haiti.png",
+    "area": 27750
+}, {
+    "countryName": "Hungary",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Hungary.png",
+    "population": 9982000,
+    "capital": "Budapest",
+    "continentName": "Europe",
+    "map": "img/map/Hungary.png",
+    "area": 93028
+}, {
+    "countryName": "Indonesia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Indonesia.png",
+    "population": 242968342,
+    "capital": "Jakarta",
+    "continentName": "Asia",
+    "map": "img/map/indonesia.png",
+    "area": 1904569
+}, {
+    "countryName": "Ireland",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Ireland.png",
+    "population": 4622917,
+    "capital": "Dublin",
+    "continentName": "Europe",
+    "map": "img/map/Ireland.png",
+    "area": 70273
+}, {
+    "countryName": "Israel",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Israel.png",
+    "population": 7353985,
+    "capital": "Tel Aviv",
+    "continentName": "Asia",
+    "map": "img/map/Israel.png",
+    "area": 20770
+}, {
+    "countryName": "Isle of Man",
+    "flag": "img/man.png",
+    "population": 75049,
+    "capital": "Douglas",
+    "continentName": "Europe",
+    "map": "img/map/Man.png",
+    "area": 572
+}, {
+    "countryName": "India",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-India.png",
+    "population": 1173108018,
+    "capital": "New Delhi",
+    "continentName": "Asia",
+    "map": "img/map/india.png",
+    "area": 3287590
+}, {
+    "countryName": "British Indian Ocean Territory",
+    "flag": "img/britocean.png",
+    "population": 4000,
+    "capital": "",
+    "continentName": "Asia",
+    "map": "img/map/Ocean.png",
+    "area": 60
+}, {
+    "countryName": "Iraq",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Iraq.png",
+    "population": 29671605,
+    "capital": "Baghdad",
+    "continentName": "Asia",
+    "map": "img/map/Iraq.png",
+    "area": 438317
+}, {
+    "countryName": "Iran",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Iran.png",
+    "population": 76923300,
+    "capital": "Tehran",
+    "continentName": "Asia",
+    "map": "img/map/Iran.png",
+    "area": 1648195
+}, {
+    "countryName": "Iceland",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Iceland.png",
+    "population": 308910,
+    "capital": "Reykjavik",
+    "continentName": "Europe",
+    "map": "img/map/Iceland.png",
+    "area": 103000
+}, {
+    "countryName": "Italy",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Italy.png",
+    "population": 60340328,
+    "capital": "Rome",
+    "continentName": "Europe",
+    "map": "img/map/Italy.png",
+    "area": 301336
+}, {
+    "countryName": "Jersey",
+    "flag": "img/jersey.png",
+    "population": 90812,
+    "capital": "Saint Helier",
+    "continentName": "Europe",
+    "map": "img/map/Jersey.png",
+    "area": 116
+}, {
+    "countryName": "Jamaica",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Jamaica.png",
+    "population": 2847232,
+    "capital": "Kingston",
+    "continentName": "North America",
+    "map": "img/map/Jamaica.png",
+    "area": 10991
+}, {
+    "countryName": "Jordan",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Jordan.png",
+    "population": 6407085,
+    "capital": "Amman",
+    "continentName": "Asia",
+    "map": "img/map/Jordan.png",
+    "area": 89342
+}, {
+    "countryName": "Japan",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Japan.png",
+    "population": 127288000,
+    "capital": "Tokyo",
+    "continentName": "Asia",
+    "map": "img/map/Japan.png",
+    "area": 377930
+}, {
+    "countryName": "Kenya",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Kenya.png",
+    "population": 40046566,
+    "capital": "Nairobi",
+    "continentName": "Africa",
+    "map": "img/map/Kenya.png",
+    "area": 580367
+}, {
+    "countryName": "Kyrgyzstan",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Kyrgyzstan.png",
+    "population": 5776500,
+    "capital": "Bishkek",
+    "continentName": "Asia",
+    "map": "img/map/Kyrgyzstan.png",
+    "area": 199951
+}, {
+    "countryName": "Cambodia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Cambodia.png",
+    "population": 14453680,
+    "capital": "Phnom Penh",
+    "continentName": "Asia",
+    "map": "img/map/Cambodia.png",
+    "area": 181035
+}, {
+    "countryName": "Kiribati",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Kiribati.png",
+    "population": 92533,
+    "capital": "Tarawa",
+    "continentName": "Oceania",
+    "map": "img/map/Kiribati.png",
+    "area": 811
+}, {
+    "countryName": "Comoros",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Comoros.png",
+    "population": 773407,
+    "capital": "Moroni",
+    "continentName": "Africa",
+    "map": "img/map/Comoros.png",
+    "area": 1862
+}, {
+    "countryName": "Saint Kitts and Nevis",
+    "flag": "img/kitts.png",
+    "population": 51134,
+    "capital": "Basseterre",
+    "continentName": "North America",
+    "map": "img/map/Kitts.png",
+    "area": 261
+}, {
+    "countryName": "North Korea",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Korea-North.png",
+    "population": 22912177,
+    "capital": "Pyongyang",
+    "continentName": "Asia",
+    "map": "img/map/NKorea.png",
+    "area": 120538
+}, {
+    "countryName": "South Korea",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Korea-South.png",
+    "population": 48422644,
+    "capital": "Seoul",
+    "continentName": "Asia",
+    "map": "img/map/SKorea.png",
+    "area": 100210
+}, {
+    "countryName": "Kuwait",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Kuwait.png",
+    "population": 2789132,
+    "capital": "Kuwait City",
+    "continentName": "Asia",
+    "map": "img/map/Kuwait.png",
+    "area": 17818
+}, {
+    "countryName": "Cayman Islands",
+    "flag": "img/cayman.png",
+    "population": 44270,
+    "capital": "George Town",
+    "continentName": "North America",
+    "map": "img/map/Cayman.png",
+    "area": 264
+}, {
+    "countryName": "Kazakhstan",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Kazakhstan.png",
+    "population": 15340000,
+    "capital": "Astana",
+    "continentName": "Asia",
+    "map": "img/map/Kazakhstan.png",
+    "area": 2724900
+}, {
+    "countryName": "Laos",
+    "flag": "img/laos.png",
+    "population": 6368162,
+    "capital": "Vientiane",
+    "continentName": "Asia",
+    "map": "img/map/Laos.png",
+    "area": 236800
+}, {
+    "countryName": "Lebanon",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Lebanon.png",
+    "population": 4125247,
+    "capital": "Beirut",
+    "continentName": "Asia",
+    "map": "img/map/Lebanon.png",
+    "area": 10452
+}, {
+    "countryName": "Saint Lucia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-St-Lucia.png",
+    "population": 160922,
+    "capital": "Castries",
+    "continentName": "North America",
+    "map": "img/map/Lucia.png",
+    "area": 616
+}, {
+    "countryName": "Liechtenstein",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Liechtenstein.png",
+    "population": 35000,
+    "capital": "Vaduz",
+    "continentName": "Europe",
+    "map": "img/map/Liechtenstein.png",
+    "area": 160
+}, {
+    "countryName": "Sri Lanka",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Sri-Lanka.png",
+    "population": 21513990,
+    "capital": "Colombo",
+    "continentName": "Asia",
+    "map": "img/map/Lanka.png",
+    "area": 65610
+}, {
+    "countryName": "Liberia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Liberia.png",
+    "population": 3685076,
+    "capital": "Monrovia",
+    "continentName": "Africa",
+    "map": "img/map/Liberia.png",
+    "area": 111369
+}, {
+    "countryName": "Lesotho",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Lesotho.png",
+    "population": 1919552,
+    "capital": "Maseru",
+    "continentName": "Africa",
+    "map": "img/map/Lesotho.png",
+    "area": 30355
+}, {
+    "countryName": "Lithuania",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Lithuania.png",
+    "population": 2944459,
+    "capital": "Vilnius",
+    "continentName": "Europe",
+    "map": "img/map/Lithuania.png",
+    "area": 65300
+}, {
+    "countryName": "Luxembourg",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Luxembourg.png",
+    "population": 497538,
+    "capital": "Luxembourg",
+    "continentName": "Europe",
+    "map": "img/map/Luxembourg.png",
+    "area": 2586
+}, {
+    "countryName": "Latvia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Latvia.png",
+    "population": 2217969,
+    "capital": "Riga",
+    "continentName": "Europe",
+    "map": "img/map/Latvia.png",
+    "area": 64559
+}, {
+    "countryName": "Libya",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Libya.png",
+    "population": 6461454,
+    "capital": "Tripoli",
+    "continentName": "Africa",
+    "map": "img/map/Libya.png",
+    "area": 1759540
+}, {
+    "countryName": "Morocco",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Morocco.png",
+    "population": 31627428,
+    "capital": "Rabat",
+    "continentName": "Africa",
+    "map": "img/map/Morocco.png",
+    "area": 446550
+}, {
+    "countryName": "Monaco",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Monaco.png",
+    "population": 32965,
+    "capital": "Monaco",
+    "continentName": "Europe",
+    "map": "img/map/Monaco.png",
+    "area": 2.02
+}, {
+    "countryName": "Moldova",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Moldova.png",
+    "population": 4324000,
+    "capital": "Chişinău",
+    "continentName": "Europe",
+    "map": "img/map/Moldova.png",
+    "area": 33846
+}, {
+    "countryName": "Montenegro",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Montenegro.png",
+    "population": 666730,
+    "capital": "podgorica",
+    "continentName": "Europe",
+    "map": "img/map/Montenegro.png",
+    "area": 13812
+}, {
+    "countryName": "Saint Martin",
+    "flag": "img/martin.png",
+    "population": 35925,
+    "capital": "Marigot",
+    "continentName": "North America",
+    "map": "img/map/Martin.png",
+    "area": 53
+}, {
+    "countryName": "Madagascar",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Madagascar.png",
+    "population": 21281844,
+    "capital": "Antananarivo",
+    "continentName": "Africa",
+    "map": "img/map/Madagascar.png",
+    "area": 587041
+}, {
+    "countryName": "Marshall Islands",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Marshall-Islands.png",
+    "population": 65859,
+    "capital": "Majuro",
+    "continentName": "Oceania",
+    "map": "img/map/Marshall.png",
+    "area": 181
+}, {
+    "countryName": "Macedonia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Macedonia.png",
+    "population": 2062294,
+    "capital": "Skopje",
+    "continentName": "Europe",
+    "map": "img/map/Macedonia.png",
+    "area": 25713
+}, {
+    "countryName": "Mali",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Mali.png",
+    "population": 13796354,
+    "capital": "Bamako",
+    "continentName": "Africa",
+    "map": "img/map/Mali.png",
+    "area": 1240192
+}, {
+    "countryName": "Myanmar [Burma]",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Myanmar.png",
+    "population": 53414374,
+    "capital": "Naypyitaw",
+    "continentName": "Asia",
+    "map": "img/map/Myanmar.png",
+    "area": 676578
+}, {
+    "countryName": "Mongolia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Mongolia.png",
+    "population": 3086918,
+    "capital": "Ulan Bator",
+    "continentName": "Asia",
+    "map": "img/map/Mongolia.png",
+    "area": 1564110
+}, {
+    "countryName": "Macao",
+    "flag": "img/macao.png",
+    "population": 449198,
+    "capital": "Macao",
+    "continentName": "Asia",
+    "map": "img/map/Macao.png",
+    "area": 30
+}, {
+    "countryName": "Northern Mariana Islands",
+    "flag": "img/mariana.png",
+    "population": 53883,
+    "capital": "Saipan",
+    "continentName": "Oceania",
+    "map": "img/map/Mariana.png",
+    "area": 464
+}, {
+    "countryName": "Martinique",
+    "flag": "img/martinique.png",
+    "population": 432900,
+    "capital": "Fort-de-France",
+    "continentName": "North America",
+    "map": "img/map/Martinique.png",
+    "area": 1128
+}, {
+    "countryName": "Mauritania",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Mauritania.png",
+    "population": 3205060,
+    "capital": "Nouakchott",
+    "continentName": "Africa",
+    "map": "img/map/Mauritania.png",
+    "area": 1030700
+}, {
+    "countryName": "Montserrat",
+    "flag": "img/mont.png",
+    "population": 9341,
+    "capital": "Plymouth",
+    "continentName": "North America",
+    "map": "img/map/Montserrat.png",
+    "area": 102
+}, {
+    "countryName": "Malta",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Malta.png",
+    "population": 403000,
+    "capital": "Valletta",
+    "continentName": "Europe",
+    "map": "img/map/Malta.png",
+    "area": 316
+}, {
+    "countryName": "Mauritius",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Mauritius.png",
+    "population": 1294104,
+    "capital": "Port Louis",
+    "continentName": "Africa",
+    "map": "img/map/Mauritius.png",
+    "area": 2040
+}, {
+    "countryName": "Maldives",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Maldives.png",
+    "population": 395650,
+    "capital": "Malé",
+    "continentName": "Asia",
+    "map": "img/map/Maldives.png",
+    "area": 300
+}, {
+    "countryName": "Malawi",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Malawi.png",
+    "population": 15447500,
+    "capital": "Lilongwe",
+    "continentName": "Africa",
+    "map": "img/map/Malawi.png",
+    "area": 118484
+}, {
+    "countryName": "Mexico",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Mexico.png",
+    "population": 112468855,
+    "capital": "Mexico City",
+    "continentName": "North America",
+    "map": "img/map/Mexico.png",
+    "area": 1973000
+}, {
+    "countryName": "Malaysia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Malaysia.png",
+    "population": 28274729,
+    "capital": "Kuala Lumpur",
+    "continentName": "Asia",
+    "map": "img/map/Malaysia.png",
+    "area": 330803
+}, {
+    "countryName": "Mozambique",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Mozambique.png",
+    "population": 22061451,
+    "capital": "Maputo",
+    "continentName": "Africa",
+    "map": "img/map/Mozambique.png",
+    "area": 801590
+}, {
+    "countryName": "Namibia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Namibia.png",
+    "population": 2128471,
+    "capital": "Windhoek",
+    "continentName": "Africa",
+    "map": "img/map/Namibia.png",
+    "area": 825615
+}, {
+    "countryName": "New Caledonia",
+    "flag": "img/caledonia.png",
+    "population": 216494,
+    "capital": "Noumea",
+    "continentName": "Oceania",
+    "map": "img/map/Caledonia.png",
+    "area": 18575
+}, {
+    "countryName": "Niger",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Niger.png",
+    "population": 15878271,
+    "capital": "Niamey",
+    "continentName": "Africa",
+    "map": "img/map/Niger.png",
+    "area": 1267000
+}, {
+    "countryName": "Norfolk Island",
+    "flag": "img/norfolk.png",
+    "population": 1828,
+    "capital": "Kingston",
+    "continentName": "Oceania",
+    "map": "img/map/Norfolk.png",
+    "area": 36
+}, {
+    "countryName": "Nigeria",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Nigeria.png",
+    "population": 154000000,
+    "capital": "Abuja",
+    "continentName": "Africa",
+    "map": "img/map/Nigeria.png",
+    "area": 923768
+}, {
+    "countryName": "Nicaragua",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Nicaragua.png",
+    "population": 5995928,
+    "capital": "Managua",
+    "continentName": "North America",
+    "map": "img/map/Nicaragua.png",
+    "area": 130373
+}, {
+    "countryName": "Netherlands",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Netherlands.png",
+    "population": 16645000,
+    "capital": "Amsterdam",
+    "continentName": "Europe",
+    "map": "img/map/Netherlands.png",
+    "area": 41850
+}, {
+    "countryName": "Norway",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Norway.png",
+    "population": 5009150,
+    "capital": "Oslo",
+    "continentName": "Europe",
+    "map": "img/map/Norway.png",
+    "area": 323802
+}, {
+    "countryName": "Nepal",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Nepal.png",
+    "population": 28951852,
+    "capital": "Kathmandu",
+    "continentName": "Asia",
+    "map": "img/map/Nepal.png",
+    "area": 147181
+}, {
+    "countryName": "Nauru",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Nauru.png",
+    "population": 10065,
+    "capital": "Yaren",
+    "continentName": "Oceania",
+    "map": "img/map/Nauru.png",
+    "area": 21
+}, {
+    "countryName": "Niue",
+    "flag": "img/niue.png",
+    "population": 2166,
+    "capital": "Alofi",
+    "continentName": "Oceania",
+    "map": "img/map/Niue.png",
+    "area": 260
+}, {
+    "countryName": "New Zealand",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-New-Zealand.png",
+    "population": 4252277,
+    "capital": "Wellington",
+    "continentName": "Oceania",
+    "map": "img/map/Zealand.png",
+    "area": 270467
+}, {
+    "countryName": "Oman",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Oman.png",
+    "population": 2967717,
+    "capital": "Muscat",
+    "continentName": "Asia",
+    "map": "img/map/Oman.png",
+    "area": 309500
+}, {
+    "countryName": "Panama",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Panama.png",
+    "population": 3410676,
+    "capital": "Panama City",
+    "continentName": "North America",
+    "map": "img/map/Panama.png",
+    "area": 74177
+}, {
+    "countryName": "Peru",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Peru.png",
+    "population": 29907003,
+    "capital": "Lima",
+    "continentName": "South America",
+    "map": "img/map/Peru.png",
+    "area": 1285216
+}, {
+    "countryName": "French Polynesia",
+    "flag": "img/fpoly.png",
+    "population": 270485,
+    "capital": "Papeete",
+    "continentName": "Oceania",
+    "map": "img/map/Polynesia.png",
+    "area": 4167
+}, {
+    "countryName": "Papua New Guinea",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Papua-New-Guinea.png",
+    "population": 6064515,
+    "capital": "Port Moresby",
+    "continentName": "Oceania",
+    "map": "img/map/Papua.png",
+    "area": 462840
+}, {
+    "countryName": "Philippines",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Philippines.png",
+    "population": 99900177,
+    "capital": "Manila",
+    "continentName": "Asia",
+    "map": "img/map/Philippines.png",
+    "area": 342353
+}, {
+    "countryName": "Pakistan",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Pakistan.png",
+    "population": 184404791,
+    "capital": "Islamabad",
+    "continentName": "Asia",
+    "map": "img/map/Pakistan.png",
+    "area": 881912
+}, {
+    "countryName": "Poland",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Poland.png",
+    "population": 38500000,
+    "capital": "Warsaw",
+    "continentName": "Europe",
+    "map": "img/map/Poland.png",
+    "area": 312679
+}, {
+    "countryName": "Saint Pierre and Miquelon",
+    "flag": "img/pierre.png",
+    "population": 7012,
+    "capital": "Saint-Pierre",
+    "continentName": "North America",
+    "map": "img/map/Pierre.png",
+    "area": 242
+}, {
+    "countryName": "Pitcairn Islands",
+    "flag": "img/pit.png",
+    "population": 46,
+    "capital": "Adamstown",
+    "continentName": "Oceania",
+    "map": "img/map/Pitcairn.png",
+    "area": 47
+}, {
+    "countryName": "Puerto Rico",
+    "flag": "img/puertorico.png",
+    "population": 3916632,
+    "capital": "San Juan",
+    "continentName": "North America",
+    "map": "img/map/Rico.png",
+    "area": 8870
+}, {
+    "countryName": "Palestine",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Palestine.png",
+    "population": 3800000,
+    "capital": "Ramallah",
+    "continentName": "Asia",
+    "map": "img/map/Palestine.png",
+    "area": 6220
+}, {
+    "countryName": "Portugal",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Portugal.png",
+    "population": 10676000,
+    "capital": "Lisbon",
+    "continentName": "Europe",
+    "map": "img/map/Portugal.png",
+    "area": 92090
+}, {
+    "countryName": "Palau",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Palau.png",
+    "population": 19907,
+    "capital": "Melekeok",
+    "continentName": "Oceania",
+    "map": "img/map/Palau.png",
+    "area": 459
+}, {
+    "countryName": "Paraguay",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Paraguay.png",
+    "population": 6375830,
+    "capital": "Asunción",
+    "continentName": "South America",
+    "map": "img/map/Paraguay.png",
+    "area": 406752
+}, {
+    "countryName": "Qatar",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Qatar.png",
+    "population": 840926,
+    "capital": "Doha",
+    "continentName": "Asia",
+    "map": "img/map/Qatar.png",
+    "area": 11586
+}, {
+    "countryName": "Réunion",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-France.png",
+    "population": 776948,
+    "capital": "Saint-Denis",
+    "continentName": "Africa",
+    "map": "img/map/Réunion.png",
+    "area": 2511
+}, {
+    "countryName": "Romania",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Romania.png",
+    "population": 21959278,
+    "capital": "Bucharest",
+    "continentName": "Europe",
+    "map": "img/map/Romania.png",
+    "area": 238391
+}, {
+    "countryName": "Serbia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Serbia.png",
+    "population": 7344847,
+    "capital": "Belgrade",
+    "continentName": "Europe",
+    "map": "img/map/Serbia.png",
+    "area": 88361
+}, {
+    "countryName": "Russia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Russia.png",
+    "population": 140702000,
+    "capital": "Moscow",
+    "continentName": "Europe",
+    "map": "img/map/Russia.png",
+    "area": 17098242
+}, {
+    "countryName": "Rwanda",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Rwanda.png",
+    "population": 11055976,
+    "capital": "Kigali",
+    "continentName": "Africa",
+    "map": "img/map/Rwanda.png",
+    "area": 26338
+}, {
+    "countryName": "Saudi Arabia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Saudi-Arabia.png",
+    "population": 25731776,
+    "capital": "Riyadh",
+    "continentName": "Asia",
+    "map": "img/map/Arabia.png",
+    "area": 2149690
+}, {
+    "countryName": "Solomon Islands",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Solomon-Islands.png",
+    "population": 559198,
+    "capital": "Honiara",
+    "continentName": "Oceania",
+    "map": "img/map/Solomon.png",
+    "area": 28896
+}, {
+    "countryName": "Seychelles",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Seychelles.png",
+    "population": 88340,
+    "capital": "Victoria",
+    "continentName": "Africa",
+    "map": "img/map/Seychelles.png",
+    "area": 452
+}, {
+    "countryName": "Sudan",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Sudan.png",
+    "population": 35000000,
+    "capital": "Khartoum",
+    "continentName": "Africa",
+    "map": "img/map/Sudan.png",
+    "area": 1886068
+}, {
+    "countryName": "Sweden",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Sweden.png",
+    "population": 9828655,
+    "capital": "Stockholm",
+    "continentName": "Europe",
+    "map": "img/map/Sweden.png",
+    "area": 450295
+}, {
+    "countryName": "Singapore",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Singapore.png",
+    "population": 4701069,
+    "capital": "Singapore",
+    "continentName": "Asia",
+    "map": "img/map/Singapore.png",
+    "area": 3903
+}, {
+    "countryName": "Saint Helena",
+    "flag": "img/helena.png",
+    "population": 7460,
+    "capital": "Jamestown",
+    "continentName": "Africa",
+    "map": "img/map/Helena.png",
+    "area": 121
+}, {
+    "countryName": "Slovenia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Slovenia.png",
+    "population": 2007000,
+    "capital": "Ljubljana",
+    "continentName": "Europe",
+    "map": "img/map/Slovenia.png",
+    "area": 20273
+}, {
+    "countryName": "Svalbard and Jan Mayen",
+    "flag": "img/svalbard.png",
+    "population": 2550,
+    "capital": "Longyearbyen",
+    "continentName": "Europe",
+    "map": "img/map/Svalbard.png",
+    "area": 21041
+}, {
+    "countryName": "Slovakia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Slovakia.png",
+    "population": 5455000,
+    "capital": "Bratislava",
+    "continentName": "Europe",
+    "map": "img/map/Slovakia.png",
+    "area": 49037
+}, {
+    "countryName": "Sierra Leone",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Sierra-Leone.png",
+    "population": 5245695,
+    "capital": "Freetown",
+    "continentName": "Africa",
+    "map": "img/map/Sierra.png",
+    "area": 71740
+}, {
+    "countryName": "San Marino",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-San-Marino.png",
+    "population": 31477,
+    "capital": "San Marino",
+    "continentName": "Europe",
+    "map": "img/map/Marino.png",
+    "area": 61
+}, {
+    "countryName": "Senegal",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Senegal.png",
+    "population": 12323252,
+    "capital": "Dakar",
+    "continentName": "Africa",
+    "map": "img/map/Senegal.png",
+    "area": 196722
+}, {
+    "countryName": "Somalia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Somalia.png",
+    "population": 10112453,
+    "capital": "Mogadishu",
+    "continentName": "Africa",
+    "map": "img/map/Somalia.png",
+    "area": 637657
+}, {
+    "countryName": "Suriname",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Suriname.png",
+    "population": 492829,
+    "capital": "Paramaribo",
+    "continentName": "South America",
+    "map": "img/map/Suriname.png",
+    "area": 163820
+}, {
+    "countryName": "South Sudan",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-South-Sudan.png",
+    "population": 8260490,
+    "capital": "Juba",
+    "continentName": "Africa",
+    "map": "img/map/Sudan.png",
+    "area": 619745
+}, {
+    "countryName": "São Tomé and Príncipe",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Sao-Tome-and-Principe.png",
+    "population": 175808,
+    "capital": "São Tomé",
+    "continentName": "Africa",
+    "map": "img/map/Principe.png",
+    "area": 964
+}, {
+    "countryName": "El Salvador",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-El-Salvador.png",
+    "population": 6052064,
+    "capital": "San Salvador",
+    "continentName": "North America",
+    "map": "img/map/Salvador.png",
+    "area": 21040
+}, {
+    "countryName": "Sint Maarten",
+    "flag": "img/sint.png",
+    "population": 37429,
+    "capital": "Philipsburg",
+    "continentName": "North America",
+    "map": "img/map/Maarten.png",
+    "area": 34
+}, {
+    "countryName": "Syria",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Syria.png",
+    "population": 22198110,
+    "capital": "Damascus",
+    "continentName": "Asia",
+    "map": "img/map/Syria.png",
+    "area": 185180
+}, {
+    "countryName": "Swaziland",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Swaziland.png",
+    "population": 1354051,
+    "capital": "Mbabane",
+    "continentName": "Africa",
+    "map": "img/map/Swaziland.png",
+    "area": 17364
+}, {
+    "countryName": "Turks and Caicos Islands",
+    "flag": "img/caicos.png",
+    "population": 20556,
+    "capital": "Cockburn Town",
+    "continentName": "North America",
+    "map": "img/map/Turks.png",
+    "area": 417
+}, {
+    "countryName": "Chad",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Chad.png",
+    "population": 10543464,
+    "capital": "N'Djamena",
+    "continentName": "Africa",
+    "map": "img/map/Chad.png",
+    "area": 1284000
+}, {
+    "countryName": "French Southern Territories",
+    "flag": "img/frenchant.png",
+    "population": 140,
+    "capital": "Port-aux-Français",
+    "continentName": "Antarctica",
+    "map": "img/map/Southern.png",
+    "area": 7747
+}, {
+    "countryName": "Togo",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Togo.png",
+    "population": 6587239,
+    "capital": "Lomé",
+    "continentName": "Africa",
+    "map": "img/map/Togo.png",
+    "area": 56785
+}, {
+    "countryName": "Thailand",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Thailand.png",
+    "population": 67089500,
+    "capital": "Bangkok",
+    "continentName": "Asia",
+    "map": "img/map/Thailand.png",
+    "area": 513120
+}, {
+    "countryName": "Tajikistan",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Tajikistan.png",
+    "population": 7487489,
+    "capital": "Dushanbe",
+    "continentName": "Asia",
+    "map": "img/map/Tajikistan.png",
+    "area": 143100
+}, {
+    "countryName": "Tokelau",
+    "flag": "img/toke.png",
+    "population": 1466,
+    "capital": "",
+    "continentName": "Oceania",
+    "map": "img/map/Tokelau.png",
+    "area": 12
+}, {
+    "countryName": "East Timor",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Timor-Leste.png",
+    "population": 1154625,
+    "capital": "Dili",
+    "continentName": "Oceania",
+    "map": "img/map/East.png",
+    "area": 14874
+}, {
+    "countryName": "Turkmenistan",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Turkmenistan.png",
+    "population": 4940916,
+    "capital": "Ashgabat",
+    "continentName": "Asia",
+    "map": "img/map/Turkmenistan.png",
+    "area": 488100
+}, {
+    "countryName": "Tunisia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Tunisia.png",
+    "population": 10589025,
+    "capital": "Tunis",
+    "continentName": "Africa",
+    "map": "img/map/Tunisia.png",
+    "area": 163610
+}, {
+    "countryName": "Tonga",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Tonga.png",
+    "population": 122580,
+    "capital": "Nuku'alofa",
+    "continentName": "Oceania",
+    "map": "img/map/Tonga.png",
+    "area": 747
+}, {
+    "countryName": "Turkey",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Turkey.png",
+    "population": 77804122,
+    "capital": "Ankara",
+    "continentName": "Asia",
+    "map": "img/map/Turkey.png",
+    "area": 783562
+}, {
+    "countryName": "Trinidad and Tobago",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Trinidad-and-Tobago.png",
+    "population": 1228691,
+    "capital": "Port of Spain",
+    "continentName": "North America",
+    "map": "img/map/Trinidad.png",
+    "area": 5128
+}, {
+    "countryName": "Tuvalu",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Tuvalu.png",
+    "population": 10472,
+    "capital": "Funafuti",
+    "continentName": "Oceania",
+    "map": "img/map/Tuvalu.png",
+    "area": 26
+}, {
+    "countryName": "Taiwan",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Taiwan.png",
+    "population": 22894384,
+    "capital": "Taipei",
+    "continentName": "Asia",
+    "map": "img/map/Taiwan.png",
+    "area": 36193
+}, {
+    "countryName": "Tanzania",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Tanzania.png",
+    "population": 41892895,
+    "capital": "Dodoma",
+    "continentName": "Africa",
+    "map": "img/map/Tanzania.png",
+    "area": 945087
+}, {
+    "countryName": "Ukraine",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Ukraine.png",
+    "population": 45415596,
+    "capital": "Kiev",
+    "continentName": "Europe",
+    "map": "img/map/Ukranie.png",
+    "area": 603500
+}, {
+    "countryName": "Uganda",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Uganda.png",
+    "population": 33398682,
+    "capital": "Kampala",
+    "continentName": "Africa",
+    "map": "img/map/Uganda.png",
+    "area": 241550
+}, {
+    "countryName": "U.S. Minor Outlying Islands",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-United-States-of-America.png",
+    "population": 0,
+    "capital": "",
+    "continentName": "Oceania",
+    "map": "img/map/Minor.png",
+    "area": 34.2
+}, {
+    "countryName": "United States",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-United-States-of-America.png",
+    "population": 310232863,
+    "capital": "Washington",
+    "continentName": "North America",
+    "map": "img/map/usa.png",
+    "area": 9857000
+}, {
+    "countryName": "United Arab Emirates",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-United-Arab-Emirates.png",
+    "population": 4975593,
+    "capital": "Abu Dhabi",
+    "continentName": "Asia",
+    "map": "img/map/Arab.png",
+    "area": 83600
+}, {
+    "countryName": "Uruguay",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Uruguay.png",
+    "population": 3477000,
+    "capital": "Montevideo",
+    "continentName": "South America",
+    "map": "img/map/Uruguay.png",
+    "area": 181034
+}, {
+    "countryName": "Uzbekistan",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Uzbekistan.png",
+    "population": 27865738,
+    "capital": "Tashkent",
+    "continentName": "Asia",
+    "map": "img/map/Uzbekistan.png",
+    "area": 447400
+}, {
+    "countryName": "Vatican City",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Vatican-City.png",
+    "population": 921,
+    "capital": "Vatican City",
+    "continentName": "Europe",
+    "map": "img/map/Vatican.png",
+    "area": 0.44
+}, {
+    "countryName": "Saint Vincent and the Grenadines",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-St-Vincent-the-Grenadines.png",
+    "population": 104217,
+    "capital": "Kingstown",
+    "continentName": "North America",
+    "map": "img/map/Vincent.png",
+    "area": 389
+}, {
+    "countryName": "Venezuela",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Venezuela.png",
+    "population": 27223228,
+    "capital": "Caracas",
+    "continentName": "South America",
+    "map": "img/map/Venezuela.png",
+    "area": 916445
+}, {
+    "countryName": "British Virgin Islands",
+    "flag": "img/britvirgin.png",
+    "population": 21730,
+    "capital": "Road Town",
+    "continentName": "North America",
+    "map": "img/map/BVirgin.png",
+    "area": 153
+}, {
+    "countryName": "U.S. Virgin Islands",
+    "flag": "img/usvirgin.png",
+    "population": 108708,
+    "capital": "Charlotte Amalie",
+    "continentName": "North America",
+    "map": "img/map/UVirgin.png",
+    "area": 346
+}, {
+    "countryName": "Vietnam",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Vietnam.png",
+    "population": 89571130,
+    "capital": "Hanoi",
+    "continentName": "Asia",
+    "map": "img/map/Vietnam.png",
+    "area": 331212
+}, {
+    "countryName": "Vanuatu",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Vanuatu.png",
+    "population": 221552,
+    "capital": "Port Vila",
+    "continentName": "Oceania",
+    "map": "img/map/Vanuatu.png",
+    "area": 12189
+}, {
+    "countryName": "Wallis and Futuna",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-France.png",
+    "population": 16025,
+    "capital": "Mata-Utu",
+    "continentName": "Oceania",
+    "map": "img/map/Wallis.png",
+    "area": 142
+}, {
+    "countryName": "Samoa",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Samoa.png",
+    "population": 192001,
+    "capital": "Apia",
+    "continentName": "Oceania",
+    "map": "img/map/Samoa.png",
+    "area": 2842
+}, {
+    "countryName": "Kosovo",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Kosovo.png",
+    "population": 1800000,
+    "capital": "Pristina",
+    "continentName": "Europe",
+    "map": "img/map/Kosovo.png",
+    "area": 10908
+}, {
+    "countryName": "Yemen",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Yemen.png",
+    "population": 23495361,
+    "capital": "Sanaa",
+    "continentName": "Asia",
+    "map": "img/map/Yemen.png",
+    "area": 527968
+}, {
+    "countryName": "Mayotte",
+    "flag": "img/mayote.png",
+    "population": 159042,
+    "capital": "Mamoudzou",
+    "continentName": "Africa",
+    "map": "img/map/Mayotte.png",
+    "area": 374
+}, {
+    "countryName": "South Africa",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-South-Africa.png",
+    "population": 49000000,
+    "capital": "Pretoria",
+    "continentName": "Africa",
+    "map": "img/map/Africa.png",
+    "area": 1221037
+}, {
+    "countryName": "Zambia",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Zambia.png",
+    "population": 13460305,
+    "capital": "Lusaka",
+    "continentName": "Africa",
+    "map": "img/map/Zambia.png",
+    "area": 752612
+}, {
+    "countryName": "Zimbabwe",
+    "flag": "https://www.countries-ofthe-world.com/flags/flag-of-Zimbabwe.png",
+    "population": 11651858,
+    "capital": "Harare",
+    "continentName": "Africa",
+    "map": "img/map/Zimbabwe.png",
+    "area": 390757
+}]

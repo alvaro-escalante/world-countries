@@ -1,0 +1,13 @@
+<link rel="stylesheet" href="style.css">
+<h1><img class="shadow" ng-src="{{detail.more.flag}}">&nbsp;{{detail.more.countryName}} </h1>
+<ul>
+	<li><b>Capital:</b> {{ detail.more.capital}}</li>
+	<li><b>Population:</b> {{detail.more.population | number}}</li>
+	<li><b>Continent:</b> {{detail.more.continentName}} </li>
+	<li><b>Area:</b> {{detail.more.area | number}} km² </li>
+</ul>
+<h4></h4>
+<h4></h4>
+<div id="wrapper">
+	<img ng-src="{{detail.more.map}}">
+</div>
