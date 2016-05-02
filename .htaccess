@@ -5,4 +5,4 @@ RewriteEngine On
   RewriteRule ^ - [L]
 
   # If the requested resource doesn't exist, use index.html
-  RewriteRule ^ /Angular/index.html
+  RewriteRule ^ /world-countries/index.html
